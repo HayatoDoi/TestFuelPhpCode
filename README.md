@@ -12,7 +12,7 @@
 - [DBcommand.txt](https://github.com/nikaidoumari/TestFuelPhpCode/blob/master/DBcommand.txt) - Please paste this command after starting mysql.
 
 ## Demo
-![ss1.png](https://raw.github.com/wiki/nikaidoumari/TestFuelPhpCode/img/ss1.png)
+![ss1.png](https://raw.githubusercontent.com/nikaidoumari/TestFuelPhpCode/master/img/ss1.png)
 
 ## Requirement
 - Apache
