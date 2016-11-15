@@ -1,0 +1,7 @@
+CREATE DATABASE testDatabase;
+USE testDatabase;
+CREATE TABLE `users`( `id` int(10) unsigned NOT NULL AUTO_INCREMENT, `name` varchar(128) NOT NULL, `age` int(4), PRIMARY KEY(`id`) );
+INSERT INTO `users`(`id`, `name`, `age`) VALUES(1, 'YAMADA', 54);
+INSERT INTO `users`(`id`, `name`, `age`) VALUES(2, 'TANAKA', 32);
+INSERT INTO `users`(`id`, `name`, `age`) VALUES(3, 'SUZUKI', 45);
+INSERT INTO `users`(`id`, `name`, `age`) VALUES(4, 'SATO', 18);
